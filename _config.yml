@@ -1,6 +1,6 @@
 # Site settings
 title: Your awesome title
-email: your-email@domain.com
+email: ohmannomma@yahoo.it
 description: > # this means to ignore newlines until "baseurl:"
   Descrizione.
 baseurl: "" # the subpath of your site, e.g. /blog/
