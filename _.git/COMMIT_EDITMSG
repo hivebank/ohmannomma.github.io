@@ -1,0 +1,122 @@
+clone bitcoinmining.com
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: thurd <berniboo@iMac.local>
+#
+# On branch gh-pages
+# Your branch is up-to-date with 'origin/gh-pages'.
+#
+# Changes to be committed:
+#	new file:   .DS_Store
+#	new file:   .sass-cache/50c4c542f89f89f704ee5b7ee410c10ceab5e527/_highlights.scssc
+#	new file:   .sass-cache/50c4c542f89f89f704ee5b7ee410c10ceab5e527/_reset.scssc
+#	new file:   .sass-cache/50c4c542f89f89f704ee5b7ee410c10ceab5e527/_svg-icons.scssc
+#	new file:   .sass-cache/50c4c542f89f89f704ee5b7ee410c10ceab5e527/_variables.scssc
+#	new file:   .sass-cache/59632d69f952374127aea03a717f1a37a816028a/_highlights.scssc
+#	new file:   .sass-cache/59632d69f952374127aea03a717f1a37a816028a/_reset.scssc
+#	new file:   .sass-cache/59632d69f952374127aea03a717f1a37a816028a/_svg-icons.scssc
+#	new file:   .sass-cache/59632d69f952374127aea03a717f1a37a816028a/_variables.scssc
+#	new file:   _old
+#	new file:   _site/404.html
+#	new file:   _site/CNAME
+#	new file:   _site/about-us/index.html
+#	new file:   _site/antminer-s3-bitcoin-miner-setup/index.html
+#	new file:   _site/avalon-wins-the-asic-race-sort-of-23/index.html
+#	new file:   _site/banks-and-brokerages-should-be-mining-the-blockchain/index.html
+#	new file:   _site/best-bitcoin-cloud-mining-contract-reviews/index.html
+#	new file:   _site/bitcoin-mining-for-beginners-how-to-mine-bitcoins/index.html
+#	new file:   _site/bitcoin-mining-hardware/index.html
+#	new file:   _site/bitcoin-mining-its-about-solving-problems-27/index.html
+#	new file:   _site/bitcoin-mining-pools-give-everyone-a-chance-to-be-involved-12/index.html
+#	new file:   _site/bitcoin-mining-pools/index.html
+#	new file:   _site/bitcoin-mining-software/index.html
+#	new file:   _site/bitcoins-may-be-virtual-but-theyre-very-very-real-6/index.html
+#	new file:   _site/bitgold-goldmoney-review/index.html
+#	new file:   _site/blog/index.html
+#	new file:   _site/certain-traits-necessary-for-bitcoin-mining-success-21/index.html
+#	new file:   _site/de/index.html
+#	new file:   _site/email.txt
+#	new file:   _site/es/index.html
+#	new file:   _site/faq/index.html
+#	new file:   _site/favicon.ico
+#	new file:   _site/feed.xml
+#	new file:   _site/fr/index.html
+#	new file:   _site/getting-started.php
+#	new file:   _site/getting-started/index.html
+#	new file:   _site/images/Facebook.png
+#	new file:   _site/images/Google+.png
+#	new file:   _site/images/Twitter.png
+#	new file:   _site/images/bitcoin-chart-going-up-arrow.jpg
+#	new file:   _site/images/bitcoin-cloud-mining-green.jpg
+#	new file:   _site/images/bitcoin-cloud-mining-scams.jpg
+#	new file:   _site/images/bitcoin-miner-antminer-s5.jpg
+#	new file:   _site/images/bitcoin-miner-bitfury-usb.jpg
+#	new file:   _site/images/bitcoin-miner-spondoolies.jpg
+#	new file:   _site/images/bitcoin-mining-chip-sheet.jpg
+#	new file:   _site/images/bitcoin-mining-chips.jpg
+#	new file:   _site/images/bitcoin-mining-pool-hash-rate-distribution.png
+#	new file:   _site/images/bitcoin-network-consensus.jpg
+#	new file:   _site/images/bitcoinmining-what-is-bitcoin-mining.jpg
+#	new file:   _site/images/buy-from-amazon.gif
+#	new file:   _site/images/buy-from-amazon.png
+#	new file:   _site/images/flat_web_icon_set/License for Flat Web Icon Set.rtf
+#	new file:   _site/images/flat_web_icon_set/black/Email.png
+#	new file:   _site/images/flat_web_icon_set/black/Facebook.png
+#	new file:   _site/images/flat_web_icon_set/black/Google+.png
+#	new file:   _site/images/flat_web_icon_set/black/LinkedIn.png
+#	new file:   _site/images/flat_web_icon_set/black/Pinboard.png
+#	new file:   _site/images/flat_web_icon_set/black/Pinterest.png
+#	new file:   _site/images/flat_web_icon_set/black/Pocket.png
+#	new file:   _site/images/flat_web_icon_set/black/Reddit.png
+#	new file:   _site/images/flat_web_icon_set/black/Tumblr.png
+#	new file:   _site/images/flat_web_icon_set/black/Twitter.png
+#	new file:   _site/images/flat_web_icon_set/black/Wordpress.png
+#	new file:   _site/images/icon-big-bitcoinfrom.png
+#	new file:   _site/images/icon-big-links.png
+#	new file:   _site/images/icon-big-secure.png
+#	new file:   _site/images/icons/icon-big-bitcoinfrom.png
+#	new file:   _site/images/icons/icon-big-links.png
+#	new file:   _site/images/icons/icon-big-secure.png
+#	new file:   _site/images/icons/icon-gs-bitcoin-mining-hardware.png
+#	new file:   _site/images/icons/icon-gs-bitcoin-mining-pool.png
+#	new file:   _site/images/icons/icon-gs-bitcoin-mining-software.png
+#	new file:   _site/images/icons/icon-gs-get-a-bitcoin-wallet.png
+#	new file:   _site/images/logo-bitcoin-mining.png
+#	new file:   _site/images/usb-bitcoin-miner-antminer-u2.jpg
+#	new file:   _site/images/usb-bitcoin-miner-avalon-nano3.jpg
+#	new file:   _site/images/video_play.svg
+#	new file:   _site/images/video_play_hover.svg
+#	new file:   _site/images/what-is-bitcoin-mining-difficulty-high-resolution.png
+#	new file:   _site/images/what-is-bitcoin-mining-difficulty.png
+#	new file:   _site/images/what-is-bitcoin-mining-high-resolution.png
+#	new file:   _site/images/what-is-bitcoin-mining.png
+#	new file:   _site/images/what-is-proof-of-work-high-resolution.png
+#	new file:   _site/images/what-is-proof-of-work.png
+#	new file:   _site/index.html
+#	new file:   _site/ja/index.html
+#	new file:   _site/materials/wibm_video/v1/What_is_Bitcoin_Mining_de.srt.txt
+#	new file:   _site/materials/wibm_video/v1/What_is_Bitcoin_Mining_en.srt
+#	new file:   _site/materials/wibm_video/v1/What_is_Bitcoin_Mining_fr.srt
+#	new file:   _site/nl/index.html
+#	new file:   _site/privacy/index.html
+#	new file:   _site/pt/index.html
+#	new file:   _site/robots.txt
+#	new file:   _site/ru/index.html
+#	new file:   _site/sitemap.xml
+#	new file:   _site/some-fast-facts-about-bitcoin-mining-14/index.html
+#	new file:   _site/spondoolies-tech-SP20-bitcoin-miner-setup/index.html
+#	new file:   _site/style.css
+#	new file:   _site/terms/index.html
+#	new file:   _site/trace-mayer.asc
+#	new file:   _site/usb-bitcoin-miner-setup-guide/index.html
+#	new file:   _site/what-is-bitcoin-mining-difficulty/index.html
+#	new file:   _site/what-is-dash-mining/index.html
+#	new file:   _site/what-is-dogecoin-mining/index.html
+#	new file:   _site/what-is-hashcash/index.html
+#	new file:   _site/what-is-litecoin-mining/index.html
+#	new file:   _site/what-is-proof-of-work/index.html
+#
+# Changes not staged for commit:
+#	modified:   _old (modified content)
+#
